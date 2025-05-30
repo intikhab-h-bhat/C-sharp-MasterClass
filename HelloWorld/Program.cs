@@ -17,3 +17,13 @@ Console.WriteLine(bankacount.GetBalance());
 bankacount.Deposit(100);
 
 Console.WriteLine(bankacount.GetBalance());
+
+
+
+
+AbstractionDemo demo = new AbstractionDemo();
+demo.Connet();
+//demo.Authenticate();
+//demo.SendEmail();
+//demo.CloseConnection();
+
