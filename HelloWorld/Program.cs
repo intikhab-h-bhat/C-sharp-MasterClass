@@ -1,7 +1,9 @@
 ﻿
 
-Teacher teacher = new Teacher();
-teacher.Name = "Misbah";
-Console.WriteLine(teacher.Name);
+using HelloWorld;
 
-teacher.Teaches();
+BadBankAccount badBankAccount=new BadBankAccount();
+
+badBankAccount.balance = -50;
+
+Console.WriteLine(badBankAccount.balance);
