@@ -1449,10 +1449,11 @@ For example, a "Car" object might have:
 1. **Classes and Objects**:
    - A **class** is a blueprint or template
    - An **object** is an instance created from that blueprint
+     
+2. **Abstraction**:
+   - Show only what is necessary.
+   - 
 
-2. **Encapsulation**:
-   - Bundling data and methods that operate on that data
-   - Hiding internal details and providing a public interface
 
 3. **Inheritance**:
    - Creating new classes based on existing ones
@@ -1461,6 +1462,10 @@ For example, a "Car" object might have:
 4. **Polymorphism**:
    - Objects of different classes can be treated as objects of a common superclass
    - Same interface, different implementations
+     
+5. **Encapsulation**:
+   - Bundling data and methods that operate on that data
+   - Hiding internal details and providing a public interface
 
 Today we'll focus mainly on classes, objects, and encapsulation.
 
