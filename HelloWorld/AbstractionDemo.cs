@@ -14,7 +14,7 @@ namespace HelloWorld
             Connet();
             Authenticate();
             Console.WriteLine("Send Email");
-            CloseConnection();
+           CloseConnection();
 
         }
         private void Connet()

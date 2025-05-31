@@ -9,7 +9,7 @@ namespace HelloWorld
     class BadBankAccount
     {
 
-        public double balance;
+        private double balance;
 
     }
 }
