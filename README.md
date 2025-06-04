@@ -1452,9 +1452,7 @@ For example, a "Car" object might have:
      
 2. **Abstraction**:
    - Show only what is necessary.
-   - 
-
-
+     
 3. **Inheritance**:
    - Creating new classes based on existing ones
    - Reusing and extending functionality
